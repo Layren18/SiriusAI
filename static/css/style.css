@@ -1,0 +1,43 @@
+body {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+header{
+	background-color: #c43ee5;
+	padding: 15px;
+	font-weight: bolder;
+	font-size: 200%;
+	border-radius: 15px 15px 0 0;
+  margin-top: 10px;
+}
+
+footer{
+	background-color: #c43ee5;
+ 	padding: 15px;
+  border-radius: 0 0 15px 15px;
+}
+
+main{
+	padding: 10px;
+	background-color: #ecc1f7;
+}
+
+form.login_form {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 450px;
+  background-color: #BA55D3;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+input.form-control {
+  margin-bottom: 5px;
+}
+
+button.btn {
+  background-color: #8B008B;
+  outline-color: #C71585;
+}
